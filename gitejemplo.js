@@ -1,1 +1,2 @@
-console.log("hi")ñ
+console.log("hi");
+console.log("hi x2");
